@@ -1,0 +1,26 @@
+{
+  "name": "Winifred Russell",
+  "age": 22,
+  "address": {
+    "street": "Rigba Terrace",
+    "city": "Gurbave",
+    "state": "MA",
+    "zip": "28405"
+  },
+  "contact": {
+    "phone": "(547) 562-9859",
+    "servicePhone": "800656962"
+  },
+  "birthday": "1990-01-09T02:52:53.410Z",
+  "ip": "128.235.145.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Du fovitsu levhon ilvujlo bowkisa agjuwvig hupeb bi tuk johas bocpel wolveoc sukjassoz ow elhumla isnakva. Wiejbit cagpos unedubaku te dulokup tedico lil cobog icoh pam befusohu ojeahil modzorto lojo uv ehowa vadziho fugaku. Ma hugur ti fikebo ewotosas ji ceca lidu ti padiki loli sorjod gubpuhbu encu viopubaw lasuhi.",
+    "bio": "Kelirpe cobgocif iwo ga paz hez pibi rik ko gaote bet zihu mece deimpec. Kothet kopotmep wuc esreof simiecu fafoib jehatu tifsidmi biccesuwi hog unolikal gafizji gountab onlasvo rabcididu tuwe faz to. Dacurpi dinonu ci nowmenwu gi virpavto joc zez cij puwco vun gula kek."
+  },
+  "apiKey": "43b60ceacf0aace6badd31eee8dae5394dd3508eb1180c89343f1befab27f435",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
