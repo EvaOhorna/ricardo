@@ -1,0 +1,26 @@
+{
+  "name": "Dale Higgins",
+  "age": 50,
+  "address": {
+    "street": "Guno Street",
+    "city": "Sumwicgim",
+    "state": "TX",
+    "zip": "63066"
+  },
+  "contact": {
+    "phone": "(601) 378-8596",
+    "servicePhone": "800978226"
+  },
+  "birthday": "2004-09-24T12:40:34.143Z",
+  "ip": "54.199.235.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Bopaku icatof et racoeki muse lin baruhlec vi wok uki rakeho hepfiod porce opco zive. Tumemi zoem zeguzke gaf dopaco gi pil tebhoboh uz wapjizi fev ujo. Gosuf corputom zokca melob tuw ehecema lulaiko tudroom lokumub ru vo sabefire utve ju li zuzlupfo epi.",
+    "bio": "Remede gusikibu alangan maruwjuc emeta naizete calbolup lokuur be vuvjic suzuk hani tatpup docraka bavba. Jid wo bisvip totofos uzolaaci woj zuhhoz bowru du deso wud won peek lilmo onofeg. Fukivjo zeluc inu jovigumu ep edduhhes tek zoszep kiiripu tedukif he elfab weaca cerub soccim gutga sebo."
+  },
+  "apiKey": "3837b123f83cf90fe025929460edc52d358a42971dbaefc7a53735b702cd472e",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
