@@ -1,0 +1,26 @@
+{
+  "name": "George Jones",
+  "age": 40,
+  "address": {
+    "street": "Pigcu Glen",
+    "city": "Bebnabnab",
+    "state": "UT",
+    "zip": "57794"
+  },
+  "contact": {
+    "phone": "(371) 761-7355",
+    "servicePhone": "800733976"
+  },
+  "birthday": "1995-02-06T23:34:28.756Z",
+  "ip": "189.223.40.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Fac soz segioc udezib ecihnol ruk wo es zeunewab lo ar fem gusastor ipo mun riprun. Zive aweme papeh pevpuhoj av re pabauj hozansi kozupo morrecup olo fu ro. Hi va ezfoc owzume luk num numako ko neadko zuz takli ed piucaoc atla ka ija ru sog. Mitiw eg lirejefap voshes sejati obuhud dum ag keviigi he pokmuito ve moisop ocse suhe usacehro. Pakocol aleobezu homwagov jok dogzamu he pihcu fuhhega gomonab mevdaj fo dotzun imu bu ziizbib. Zivas lujwece rok wonhan ogodu da vifog caaju ebgu sug rijikro zi gatib sa poz kefugvo.",
+    "bio": "Tenki kucef wof fiawe ta cewlev opili zav wuminko aduigo najguf uwato fal dah hom fupdapaz fe honifpo. Cahwakkuh siuzufi zo zi iru nik ruanu ovu geghin jevmetzig gi covwu copam pec jerohlun sepaume sicofdug. Ob na jotef molazuc rokrew facrorom uhagaw asiteved mawakuf ul soku gis pu ne. Luju kikip arpo worjokfip ihmati jutlesol komwu rip wavu tuvus zuroora parohuuc hi av."
+  },
+  "apiKey": "44cfdfe9994470146b90e1700435949859f796fe4a269edf34e917944819ce60",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
