@@ -1,0 +1,26 @@
+{
+  "name": "Francis Abbott",
+  "age": 38,
+  "address": {
+    "street": "Afivu Turnpike",
+    "city": "Irgojus",
+    "state": "WA",
+    "zip": "32650"
+  },
+  "contact": {
+    "phone": "(706) 823-1959",
+    "servicePhone": "800119551"
+  },
+  "birthday": "1967-08-22T22:35:04.429Z",
+  "ip": "215.68.243.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Jadzu ociopekis muzpij iv voga baterwab imozod pah hehnev am disuwmu sujew. Fopinis movkez igi oki lus hi riwkusbu oza iz vedoz ceh tuk kubog husewe raszezev duvinbur apa re. Nupga ro bolo jopjijjoh hurur ha luh mujholu hellij kik bo pifovul. Cejsak votsah ehsud eg bewadov gemisve wis ga ijwuimo ebika udafu ariop ar rocur koiha to.",
+    "bio": "Gen melivuje witwa afa owaik vogwogu ivobe vacotso ulgi finan nubkiro ibvet oni ov. Hoceur hoszowec map lo hoepi ozti ku sujam bis bi jurve caupeec mimwefi eko foboc. Upgahum ufri bamik wugolrov pimowa ditke puhdil jeip etumivme nedformeb geawpu asso bosnu pu ahakohe so."
+  },
+  "apiKey": "ae4ef09d3c314b2925268098f412b2a91a5cb5b35107ec088e54ace47d37588a",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
