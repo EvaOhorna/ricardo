@@ -1,0 +1,26 @@
+{
+  "name": "Marion Marsh",
+  "age": 58,
+  "address": {
+    "street": "Picid Glen",
+    "city": "Setconuc",
+    "state": "CA",
+    "zip": "58528"
+  },
+  "contact": {
+    "phone": "(384) 491-9685",
+    "servicePhone": "800967612"
+  },
+  "birthday": "1996-05-21T16:17:36.475Z",
+  "ip": "177.177.66.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Zizjil jeli ton vi wumarloj otovapsip leb pe venbizuk mumnapri ib tasneg tecun muzvu bazsiwka mugvihaf. Porpu ohu hefuc gifutel hem al leciro cuvteet hutmo cutivkar jifo kewo din lalpivin ijnoofu bejjij jiwom. Malaen owabiga zup tok ubugo mi labab uhfafob lupek gueru ezrev obuba povopot opa upazu.",
+    "bio": "Ufa mih ruknini camnasrib soh juwdeg waborah degbo ho tu ofu li. Ef lanmola ehsacen ceknurzuj hebnezdo wewrogo siwuga upetagpi ba fefzimjud del limdog wi la. Anekihbo zihiceja rani utragnu ve ipgupjo eho jumarne vad caav ena duv ejipo ulaji risup jiz ugu ce. Jeh gu pew hovogri mihiz soref zo pocekfo omuolupu icawa ded come."
+  },
+  "apiKey": "a851b02acdfaa4efaa7d8a252e4ffb00f3ba8f42efb885a3b73b9f8c1b1b5888",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
