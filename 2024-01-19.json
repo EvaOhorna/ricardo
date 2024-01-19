@@ -1,0 +1,26 @@
+{
+  "name": "Theodore Chambers",
+  "age": 54,
+  "address": {
+    "street": "Jubur Extension",
+    "city": "Hafdefgaz",
+    "state": "IN",
+    "zip": "00476"
+  },
+  "contact": {
+    "phone": "(674) 584-6479",
+    "servicePhone": "800625531"
+  },
+  "birthday": "1990-05-10T23:10:19.855Z",
+  "ip": "49.65.26.55",
+  "foo": "bar",
+  "profile": {
+    "about": "Zidrimja haw hezef jinigjab ezu uc ot beswikpi wonut ruefzo mab kidkej za erawesiv. Ejlolzo ikel zud mom kisoki ce dameg ujsa iha rapfudir itedit fun natdoos aj hu. Vagarca debefa fo hivmuwja akhi wi wavi padol wocaigu tor foteci fuh kamu. Mivinmed hasufe fonpa run metowboh luk fumsasje niwroruv velpal veldofi zeh ijasig.",
+    "bio": "No maino ajcu di li uli sin fi ohebiubi lawu ifiindi zec re tuh lakkes dodseef cibircu peb. Ogja visetej enakuf kunufubap awki ga mocazik coha esu juhtensej jacojta li daictiz jinhoha za. Pi rateflo togim big mijdoc eveurepev libe sivihmeb rat pa da wejok cin ew. Jaomezu ratin puradifez ab tenlasnir lo jien sujhazfe faceb afefoeri ni ujuasuje."
+  },
+  "apiKey": "9da6af56c547ea2d267e6784075be09097b7945791cb223f3ffea9481da080ef",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
