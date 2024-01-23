@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Clark",
+  "age": 55,
+  "address": {
+    "street": "Deskic Manor",
+    "city": "Zogomof",
+    "state": "MA",
+    "zip": "56016"
+  },
+  "contact": {
+    "phone": "(434) 492-2836",
+    "servicePhone": "800395339"
+  },
+  "birthday": "1970-08-11T03:06:55.089Z",
+  "ip": "89.6.122.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuztal zavo latu sup puwel icaga zohep cevi heb ciewi fommuzo olzi roubo fuirhi. Omwesdor ipooddag igizu serwe rafip di cokuobi tanwun bil tut cafab jaom jinumaj vufawi bak wazga ahodalih zihwajev. Tofa ibwec lofuh hutbew deptatez he vit oc viv dec ajomes mekowrik.",
+    "bio": "Zup taspu cuacena bohlak vihmemep ti luipdew magevju na uzfa gocesda jat laemku jaglu idauzag ela kubwehaw. Ke cos den hutgucpu ep pum keguwdut ate wizudgac sumaeba huuv ureruc. Bevcova cuz rier awki pim culosva efjiluv aw foumeji uspi kuknujel ko micew kadahi ep ilutekek sewsubu. Zupigu ufiuda lewassa boda davteregi puvoro regfi ha fu he pe liz pa remhimwep."
+  },
+  "apiKey": "f0ab8fc082a9f84de2c0a1077be165a484baf8732a71ff8aa7b90a80cda58d8f",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
