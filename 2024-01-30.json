@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Ballard",
+  "age": 31,
+  "address": {
+    "street": "Obiko Place",
+    "city": "Cubohkil",
+    "state": "MT",
+    "zip": "84134"
+  },
+  "contact": {
+    "phone": "(275) 849-9969",
+    "servicePhone": "800152553"
+  },
+  "birthday": "2001-06-06T00:35:06.063Z",
+  "ip": "150.157.185.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Umuutuwa ipaluik tol dorami wefno ruzev sa zevuwi mi ahuleh vom uhovub riehe bacabaf zej. Awusirzu refdi ru janugam ofvo taut on fuhduc hi wobaj zuk hava lur. Neci ho new mienufe ten sini vihuwba momig fu ujbenuz fegap beopra. Mosij no zutbo abeojlus lacbi vum tedve cabvo onipo fairu mepewu man zoenali ulgufse kapnoolu hawvev ajlachi.",
+    "bio": "Discid ab bif ca do genba upo li leupo cac zukefagab fikhedaj. Tim ave puksa moztuzo fiktamel sahge juho oja wehvuc ollosev tibopuva ur tauzefa. Koludo set lihaspek no calujo ahloj gades relug mit viwkaz cudciob votel noav mupow. Ji ukzonnu tuktu on nuna kub va wuna epa mibuhur gezi evicukpa."
+  },
+  "apiKey": "032dd78f9358ad33358100ec441b24911dd125dfe01674fa15e1c8d38ced8f20",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
