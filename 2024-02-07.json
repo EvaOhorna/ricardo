@@ -1,0 +1,26 @@
+{
+  "name": "Jim Erickson",
+  "age": 37,
+  "address": {
+    "street": "Jauh Square",
+    "city": "Nobilzej",
+    "state": "CO",
+    "zip": "36154"
+  },
+  "contact": {
+    "phone": "(418) 940-7718",
+    "servicePhone": "800485195"
+  },
+  "birthday": "1995-10-30T06:16:19.597Z",
+  "ip": "188.139.158.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Cihbek imasiola vujej hofri zemimfup ves seh osbup ijug ina gokkekba beidrac ehabaluj. Ne setmef ig sohe appok winitac mawewar tabnabogu git hingir hanhid jeiw kigrom limluos ju lipige gelel. Va aleudo urueztej desre wecno ihi toc mofdog inrocar fahneve ecuz ri.",
+    "bio": "Cog uvuza zilatoba rokiga kevopvo bov ifi eh muvu hu goz zato. Et lofe zu vit luwi hi fapos varosiwi pac ve du gojweso jiz wu mofnecre ecegeim. Izevcu viajiok buajiliw ziz pa wu vemabsat dub kak zo dackacne tezu getunvef cuiri fibim akagiwo co."
+  },
+  "apiKey": "98c6451346045180cad729cfef9c325990d7e623cab0c543b64a5540956759fe",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
