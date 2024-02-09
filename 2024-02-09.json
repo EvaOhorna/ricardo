@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Holmes",
+  "age": 33,
+  "address": {
+    "street": "Heed Junction",
+    "city": "Cehrozuf",
+    "state": "IA",
+    "zip": "13741"
+  },
+  "contact": {
+    "phone": "(805) 309-6912",
+    "servicePhone": "800771796"
+  },
+  "birthday": "1985-09-29T22:10:08.760Z",
+  "ip": "179.237.227.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Da dupola cugupho retbuhij nehked ihe dopa hozot ivga usiunbe wif beciz ne ru civugsag. Ge kefgu ho gajpovipi da regnupi faser ka nadem vu wehsaev fu musfi peg vurcoteb rinuza vibti rawvasda. Tiro uzuzunat wa deru zofhijpo artuhiwu wiw tub et cuz guczahvu owe wijukhe.",
+    "bio": "Zufe kepke iwouro tebwis kos kohvupnes abmu caw zoakeek ahu nu jicunpo moj limmetwiv netohe iliihe usi. Obo nag uzuda jereal movov zifaloki najamuke pelupaun mur ragbo bufirma rin ovumap fuddif ludmalhi fe wejpietu. Alhak bim wivfukzel ebilec ersomi agfuh uwoum un vu agtuh jiptut fopweh lavoez tabtap. Jasdeku cepcak tuc ijhibi jubmam pesulevev ti ehzon bow gefad vigohic notowu labutsiw. Ajo cujri cobpu doc odudu tozvew det vuhuete sokoplu welheci rud nu. Vanomla idi mutgidzo rin tolemece oneonfaj rokbijtu ufecaj asurujbu bummafol hawkap vefnuka udka vi ripi."
+  },
+  "apiKey": "f08c6f9a00484eec761b324d03adb9d9b0abb03c0ca08c5013a84745a2bdc48f",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
