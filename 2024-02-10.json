@@ -1,0 +1,26 @@
+{
+  "name": "Troy Martinez",
+  "age": 22,
+  "address": {
+    "street": "Pukat Center",
+    "city": "Fizkicsek",
+    "state": "IA",
+    "zip": "23986"
+  },
+  "contact": {
+    "phone": "(365) 456-5522",
+    "servicePhone": "800944556"
+  },
+  "birthday": "1999-06-03T02:19:42.405Z",
+  "ip": "195.236.157.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Ifjire majem cacse cecsiz ho lati ruti newsabba ep dot ku winfe jomtuvvu etu ekreg amgijki esa. Hiben olsifu lowehecu var robma gal ziedo tavupwok codomwi cisiha co ad jej olauvo. Ucativin os ac zohofnas ma bovtoldo om hivomzuc co ahusev jetzo mutedocor. Zic lejta uj vac zoksa papwukur oc tolleb goon wo zanubuh nusjatas gakov amuba. Su zefo nacuf teuh noz inge gol rer lofupuren vohco gil togse. Tuuwere vazal zaeruse lotmib vifjereba ekmohugo awa pig teropec jowa ejogeh al varkolta ce ze useco uridu.",
+    "bio": "Towlomup ol liseriike ragujjog sid caobav nef apmihik burupvar saz ge kubo lemwu pil bijnig siup suwdal. Leukrel cof ker ed li tol julel eno gevpaggap jel ovfihjow zulaknuh lailva ihjip unaozaiho kukpet he souju. Ges zogi iphefpem eva docihik dajdeb tu iduozgov toefla ce he ju kap atizan hid wulta ivadaar sahad. Besler halup itzar da jiczu tozonu cu ajso hekeli papjahmu lecpek nu sevcez riru folu cetup go vagohi."
+  },
+  "apiKey": "2aa4eb02d929bd2eb2ccf90f55aa78d3acab0891813cd360d06d98b781fa8234",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
