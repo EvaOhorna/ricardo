@@ -1,0 +1,26 @@
+{
+  "name": "Frank Bailey",
+  "age": 50,
+  "address": {
+    "street": "Jiwir Glen",
+    "city": "Nutoob",
+    "state": "OH",
+    "zip": "91166"
+  },
+  "contact": {
+    "phone": "(500) 875-6822",
+    "servicePhone": "800212632"
+  },
+  "birthday": "1991-09-10T01:47:16.435Z",
+  "ip": "62.163.223.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Cu rahurna ozidoiv uveneksop ha do ahuvu veaf buron riosupop ciuwobab zosvijok ton goklanfer. Ha apweffo irbuzca usotu wihag dauhup mogti okoewewe ekiivga homap tev iride. Ti id mahufso kovguslov lutome homak hepwojci wi jizesivo ehnerow du cu ufa lutub iku nivme tuk aduweuc.",
+    "bio": "Habiskoj anburad vo ne rojikuka piuwu remuvzef mep puniwdi ke ba atpu ira ebzopriw zifpi. Veza ho ojkewhuk izfimwew uknin tabop oltede lamin widtuw mo pebsum vov. Bizus mal to casinoz tozocpo woju nigbozu dejure efdoswo funa zakil te."
+  },
+  "apiKey": "80a1710a044137740f748fca212e8da64f7e7b12d9bbab4c349e6612bbfea738",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
