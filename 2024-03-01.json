@@ -1,0 +1,26 @@
+{
+  "name": "Alta George",
+  "age": 22,
+  "address": {
+    "street": "Rihfok Parkway",
+    "city": "Gefeceg",
+    "state": "ID",
+    "zip": "49989"
+  },
+  "contact": {
+    "phone": "(847) 480-5752",
+    "servicePhone": "800646631"
+  },
+  "birthday": "1979-02-23T00:50:45.740Z",
+  "ip": "67.140.150.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Hesneeg jeiseow be rojcowo wot wados coj zas vigdilep befiv noocjow oppefsin. Ra tici esivekli zewcu vi gar umjiskeh ecelizto kiimi hiwgakeg asjo negjaz. Lod ko otjieba zuptiwlo ezbigre umu jabmob dotapin desfahaj uh law ekfajho zece wu. Picfit ozuzefgo ombu kazej beanoju ziffewpiz tat onovupohu fij selopu nidcob icaalu. Oj evin cenne baogeto zeruot tenna buvowvak pikud em binuvuh teduiw tuhsidka vakivuvob. Epira baz pacokiku ricmipfo gasju uwgu durov gifir gavo vu welnit puhisdi nar fu odo itoced.",
+    "bio": "Fu neptokbuw az bug ra gehbel kafapwok lepes lendo vejal puj ce niuga. Capiv joit lovsa japujire tiika cipmil caariov gu unjus delaw moki juvfe mop ackafa pimmo cineol. Za owrub ge dobefa kiop negolip idcaetu lokugek rolvij jepiruk uv dibeobu puluz ulebu."
+  },
+  "apiKey": "59ee0b6d9bd52e881ac5267e8145044db84d3da4e1984934e37c41bcdcf9c96e",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
