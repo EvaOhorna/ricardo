@@ -1,0 +1,26 @@
+{
+  "name": "Allen Roberson",
+  "age": 25,
+  "address": {
+    "street": "Timfa Loop",
+    "city": "Poddince",
+    "state": "NY",
+    "zip": "72981"
+  },
+  "contact": {
+    "phone": "(284) 355-2146",
+    "servicePhone": "800818617"
+  },
+  "birthday": "1965-03-11T12:26:05.758Z",
+  "ip": "95.187.175.35",
+  "foo": "bar",
+  "profile": {
+    "about": "If ej we si halgesa on aso sak vopwegnu awzuvnif zovbeew railwi vihata gotfioso. Vi javo avu zove nutihaj juka ah us emfi pilawe epi ewva bisag masgotso ikegoras adzadro ecorokub pi. Ledoli ve fusge wij boghozce la jasosda dashidid ufi vupi daged toopek deluk riluz heko jeipre curow.",
+    "bio": "Farfah legaj ruski houvu amute pejas ribjalvit zi apzioci da boomiij tu ufuhapuh vor wazog tensiisu zeoce noisa. Siwgazdu rimbore suldin laez hudjufku nujkodco jannovze afijerdog idrib mat gorma is vop gol os mihker. Pahul zuhwiji be egzuec adco ceul hufpe feola legag mipto henaga ta tepinkac got han. Keke dalbogu afcuden logduwzi deamigeb tesetero gifam igamiktad gued ozobu tafep enzeovo."
+  },
+  "apiKey": "13b79f1f388d77149f9f24a0becea83685f8feea8e929da42abb4b8419a66393",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
