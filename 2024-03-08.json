@@ -1,0 +1,26 @@
+{
+  "name": "Joel Larson",
+  "age": 23,
+  "address": {
+    "street": "Uvkav Park",
+    "city": "Zavcajuz",
+    "state": "LA",
+    "zip": "21224"
+  },
+  "contact": {
+    "phone": "(667) 579-6676",
+    "servicePhone": "800387152"
+  },
+  "birthday": "1972-12-03T04:43:00.158Z",
+  "ip": "250.50.8.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuvu rirme virbah baf tehwu lus bowpo sanabe ozihinic dur ol tuli. Vidromik nag ta bon wig upenon okkap ciwonra ca baluwu mokved jefun tuctamso naejo. Bes gejunhu opbaciz rishijjo gudi cudoca wuvdodtuh ecojagufe refnu awpehed zazipra nadam ajauni obu ahgotfis joki.",
+    "bio": "Fuhpe daica tubfe sunic ufso vuk jen lofmupar lejjih guv tabpi nuha ilicer do nohishuv mimni fualecik. Jabwam ducepizu gigavfen gi bih leg dak min li kuta irlip he piwgoh vone. Kamig ula wi aviguhoc vasti ju wolaik fes es hinhev as ropuw tafbe wo silamas."
+  },
+  "apiKey": "1846a1fcd29fa7c00b04abb5ce7fc1dd84735cd38cee9967ed7720b43a71de30",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
