@@ -1,0 +1,26 @@
+{
+  "name": "Troy Fowler",
+  "age": 42,
+  "address": {
+    "street": "Bulodi Pass",
+    "city": "Puzirdob",
+    "state": "CA",
+    "zip": "76229"
+  },
+  "contact": {
+    "phone": "(286) 727-8432",
+    "servicePhone": "800566275"
+  },
+  "birthday": "2005-09-16T10:14:08.153Z",
+  "ip": "203.196.190.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Balfo di er sakimupa tojuw vemol visaswi diosteh abaehali fa vijta fuddumol. Jug ciazodaj munit afivpod amlop uziocgal jum soriftih vicu ta jezemone sagjup kuk ije rib. Gaj efoegref uje relrik caca guiva lawimub daz iwa jopego gi ginfucic lamiklaj no opiadaaw dih lokwaj. Puotjen hince bal ud alugekup amhopkap bituti cingigis jomvafem elujihle jijhaep gidteh eve reiw uhaoviufo ajipuf enpu.",
+    "bio": "Wa wadil levut ude puj juwhul hurlah gobwabcal saj suv somcauvo pojice doftuduv hinifap emvetmoj. Boparah ije kipaci jute uhos oho wetasu amluofa ap so gabcop uzoivi bonid wi. Butpebis rohlule garse co navig biuzujis boavijel ofceap cep begev ibe jif ja fukfek sizeh. Tuzde umuz rog cataf lem da vesuf vogis obimehac owes eka cifene avicaz uldajmuf ukimuviv. Ogmeh pi os egvouh dafejod tizun fowerje log vetpozod filulgol rumonocun te."
+  },
+  "apiKey": "6b31c01c561e0a9eca7f2ac60fb0dd796d8085e9a6032b941bb4380d2fc8bfc4",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
