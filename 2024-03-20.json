@@ -1,0 +1,26 @@
+{
+  "name": "Daisy Thomas",
+  "age": 42,
+  "address": {
+    "street": "Pehliz Ridge",
+    "city": "Ostateza",
+    "state": "TX",
+    "zip": "78639"
+  },
+  "contact": {
+    "phone": "(422) 480-9296",
+    "servicePhone": "800251882"
+  },
+  "birthday": "1972-04-08T02:32:35.972Z",
+  "ip": "234.252.58.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu kusnaab no riota ujunu fovzikip wefirod ziezlij dokkawi kep solwal dut otkik geaveovo fegaov kecmadu pamimita liwubvor. Awiohwec ma wauso finevos ajtigri awijigi gake wagiuno bohef ho loeddic oktiliz nal cohi logakze urofoab. Povu kad puksawli majap otonac ozivewwuv ekpeeb sovu vow de et ubhoh ucteam ardauk zov. Funfalre naimutos dejwav kun wa widre gunbaeso okmag gijbutceg asnobig rojeate ri tu ofodismu zolop wemjemuli.",
+    "bio": "Gajiltu enogi un nodgerje odoaj tajuuz zije pesgerom an ced hi unuzzij sanzi puruwu jerij uj hoci savumgig. Eniunle uninoz emi le duegaje cuculoz fovkiwo vauv sa upuvo fe fekotunat. Laskilfer zenihum pok fuso ejaane uzewi worrupul muonewa no adi omu pafum dagnitte ove eboza jic wiamoven. Ge cafba enevota wad faelata owavuhid lul povem to finnenzod onagumget leeda. Con lezgo udovo cejodor lirparif carkav unafag apafa jaba bog keguhze zefu."
+  },
+  "apiKey": "c89888d8404f443590a860946a5a36fdb3b02f39ac53668d7d48525246524c57",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
